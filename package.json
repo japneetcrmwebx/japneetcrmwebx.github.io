@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://japneetcrmwebx.github.io/japneetcrmwebx.github.io",
+  "homepage": "http://japneetcrmwebx.github.io/portfolio",
   "dependencies": {
     "@carbon/icons-react": "^10.10.2",
     "@carbon/themes": "^10.11.2",
